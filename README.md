@@ -26,7 +26,7 @@
 | 🔁 **Interface types** | Co-Simulation (CS), Model Exchange (ME), Scheduled Execution (SE, FMI 3.0 only) |
 | ⏱️ **FMI 3.0 features** | Clocks (periodic, triggered, countdown), Event Mode, structural parameters |
 | 🚌 **FMI-LS-BUS** | Network Abstraction (Low-Cut) for CAN, LIN, FlexRay and Ethernet<br>Physical Signal Abstraction (High-Cut) |
-| 🔍 **Monitoring** | LS-BUS terminals are connected to PROVEtech:RE virtual-device ports (CAN, LIN, FlexRay, Ethernet/generic) |
+| 🔍 **Monitoring** | LS-BUS terminals are connected to PROVEtech:RE virtual-device ports (CAN, LIN, FlexRay, Ethernet, Generic) |
 | 💻 **Platforms** | Windows 10/11 x86-64<br>Ubuntu 22.04/24.04 x86-64 and arm64 |
 
 > **Legend:** **CS** = Co-Simulation · **ME** = Model Exchange · **SE** = Scheduled Execution
