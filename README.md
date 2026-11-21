@@ -1,4 +1,4 @@
-# PROVEtech:RE FMI Importer
+# PROVEtech:RE FMU Importer
 
 **Scope:** This document gives a high-level overview of the FMU examples used to validate the PROVEtech:RE
 
