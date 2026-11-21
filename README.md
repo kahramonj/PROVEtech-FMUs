@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🔌 PROVEtech:RE FMU Importer
+# 🔌 PROVEtech Tool Suite FMU Importer
 
 **FMI 1.0 · 2.0 · 3.0  |  Co-Simulation · Model Exchange · Scheduled Execution  |  FMI-LS-BUS**
 
-*A high-level overview of the FMU examples used to validate the PROVEtech:RE FMU importer.*
+*A high-level overview of the FMU examples used to validate the <a href="https://www.provetech.de/" target="_blank">PROVEtech:RE</a> FMU importer.*
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## ⚙️ 1. Importer capabilities
 
-| Area | Support in PROVEtech:RE |
+| Area | Support in <a href="https://www.provetech.de/" target="_blank">PROVEtech:RE </a>  |
 |:-----|:------------------------|
 | 🧩 **FMI versions** | 1.0, 2.0, 3.0 |
 | 🔁 **Interface types** | Co-Simulation (CS), Model Exchange (ME), Scheduled Execution (SE, FMI 3.0 only) |
