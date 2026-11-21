@@ -7,7 +7,7 @@
 
 ## 1. Importer capabilities
 
-| Area | Support in RC_CFMI |
+| Area | Support in PROVEtech:RE |
 |------|--------------------|
 | FMI versions | 1.0, 2.0, 3.0 |
 | Interface types | Co-Simulation (CS), Model Exchange (ME), Scheduled Execution (SE, FMI 3.0 only). |
